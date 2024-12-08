@@ -3,6 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oddish3&layout=compact&theme=dark)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oddish3&show_icons=true&theme=radical)
 <!--
 **oddish3/oddish3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
