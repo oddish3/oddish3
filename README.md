@@ -1,5 +1,5 @@
 ## Hi there 👋
-My Academic website: https://oddish3.github.io/oddish.github.io/
+My Academic website: https://solyates.uk
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oddish3&layout=compact&theme=dark)
